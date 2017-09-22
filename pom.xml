@@ -46,6 +46,12 @@
 			<version>3.8.5</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.crane-ci</groupId>
+			<artifactId>base</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
